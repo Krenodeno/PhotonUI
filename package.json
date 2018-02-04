@@ -30,7 +30,7 @@
     "abitbol": "^1.0.3",
     "font-awesome": "^4.7.0",
     "keyboardjs": "^2.3.3",
-    "lodash": "^4.17.0",
+    "lodash": "^4.17.5",
     "stonejs": ">=2.1.0",
     "uuid": "^3.0.0"
   },
