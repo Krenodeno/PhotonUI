@@ -35,7 +35,7 @@
     "uuid": "^3.0.0"
   },
   "devDependencies": {
-    "browserify-licenses": "^1.4.2",
+    "browserify-licenses": "1.4.5",
     "grunt": "^1.0.1",
     "grunt-browserify": ">=3.5.0",
     "grunt-cli": "^1.2.0",
